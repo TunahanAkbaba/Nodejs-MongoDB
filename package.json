@@ -1,0 +1,25 @@
+{
+  "name": "jsnode",
+  "version": "1.0.0",
+  "description": "Node Blog Application",
+  "main": "app.js",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.3",
+    "body-parser": "^1.19.0",
+    "connect-mongo": "^3.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "express-handlebars": "^5.1.0",
+    "express-session": "^1.17.1",
+    "moment": "^2.28.0",
+    "mongoose": "^5.10.5"
+  },
+  "devDependencies": {
+    "handlebars": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
